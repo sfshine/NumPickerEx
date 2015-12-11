@@ -12,3 +12,4 @@ You can custom:
 3.The color of the picker text
 
 
+![image](http://static.oschina.net/uploads/space/2015/1211/154010_an1f_259459.jpg)
