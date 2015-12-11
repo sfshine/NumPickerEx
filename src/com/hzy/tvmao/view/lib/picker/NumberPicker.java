@@ -1448,6 +1448,8 @@ public class NumberPicker extends LinearLayout
         updateInputTextView();
         initializeSelectorWheelIndices();
         tryComputeMaxWidth();
+        setValueInternal(displayedValues.length / 2, true);
+        postInvalidate();
     }
     
     @Override
